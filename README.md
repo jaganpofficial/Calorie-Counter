@@ -36,7 +36,7 @@ The logic behind the Calorie Counter is implemented in the `script.js` file. Key
   - Clicking the "Add Entry" button dynamically adds input fields for the selected meal or exercise category.
 
 - **Calculating Calories:**
-  - The "Calculate Remaining Calories" button triggers the calculation of remaining calories based on the budget, consumed calories, and exercise calories.
+  - The "Calculate Remaining Calories" button triggers the calculation of remaining calories based on the budget,consumed calories, and exercise calories.
 
 - **Output Display:**
   - The calculated remaining calories, budgeted calories, consumed calories, and burned calories are displayed in the output section.
